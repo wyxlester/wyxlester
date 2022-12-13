@@ -12,6 +12,8 @@ I'm a Full Stack Developer now, continuing a lifelong journey of learning and pr
 - 🔭 I’m currently working on building my own portfolio website and practicing Leetcode Challenges
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on web development projects based in Ruby on Rails framework
+- 🧑🏻‍💻 See my last completed project in production: https://www.le-fms.com/
+- 🧑🏻‍💻 See my last completed project source code: https://github.com/willkoo/le-fms/
 - 📫 LinkedIn Profile: https://www.linkedin.com/in/lester-wee/ 
 - ⚡ Fun fact: I love poker
 
