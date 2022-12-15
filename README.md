@@ -12,7 +12,7 @@ I'm a Full Stack Developer now, continuing a lifelong journey of learning and pr
 - 🔭 I’m currently working on building my own portfolio website and practicing Leetcode Challenges
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on web development projects based in Ruby on Rails framework
-- 🧑🏻‍💻 My latest project: A customised solution for streamlining franchise applications: <a href="https://www.le-fms.com/">Production</a> | <a href="https://github.com/willkoo/le-fms/">Github</a>
-- 📫 See my <a href="https://www.linkedin.com/in/lester-wee/">LinkedIn Profile</a>.
+- 🧑🏻‍💻 My latest project: A customised solution for streamlining franchise applications: <a href="https://www.le-fms.com/" target="_blank" >Production</a> | <a href="https://github.com/willkoo/le-fms/" target="_blank" >Github</a>
+- 📫 See my <a href="https://www.linkedin.com/in/lester-wee/" target="_blank" >LinkedIn Profile</a>.
 - ⚡ Fun fact: I love poker ♠️❤️♣️♦️
 
